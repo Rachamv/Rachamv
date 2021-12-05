@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a developer
 - 🌱 I’m currently learning javascripts
 - 💞️ I’m looking to collaborate on build an Ecommercial website on moralis web3
-- 📫 How to reach me on telegram https://t.me/WbmtSupport
+- 📫 How to reach me on telegram https://t.me/WBMSupport
 
 <!---
 Rachamv/Rachamv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
