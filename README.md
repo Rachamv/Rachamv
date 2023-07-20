@@ -1,16 +1,16 @@
 <P>
 <h1 align="center">Hi 👋, I'm Oladele Adewunmi</h1>
-<h3>A passionate Software Engineer focused on Full-Stack Web Developement 💻,
+<h3>A passionate Software Engineer focused on Full-Stack Web development 💻,
  ios Developer in making and Designer!</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p>I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the inspire innovation that creates solutions with technology of tomorrow!!</p>
+<p>I love the challenge of finding solutions to problems and spending time meeting new people. Learning and trying new things and most importantly, having a hand in developing the inspire innovation that creates solutions with the technology of tomorrow!!</p>
 
 - 🔭 I’m currently working on [my virtual office](https://github.com/Rachamv/My-Office)
 - 🌱 I’m currently learning Python
-- 💬 Ask me about any of my repository
+- 💬 Ask me about any of my repositories
 - 📫 How to reach me: check the social section
-- ⚡ Fun fact: **I am an ALX Software Engineering Program student.** and **I'm currently a first year Computer Science student at Kibo a assiociate of Wolf University.**
+- ⚡ Fun fact: **I am an ALX Software Engineering Program student.** and **I'm currently a first-year Computer Science student at Kibo an associate of Wolf University.**
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
