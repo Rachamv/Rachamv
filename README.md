@@ -53,7 +53,7 @@ Name | Badges
 ----|----
 **Most Used Languages** | <a href="https://github.com/Rachamv"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachamv&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
 **Github Stats** | <a href="https://github.com/Rachamv"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Rachamv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-**Streak Stats** | <a href="http://www.github.com/Rachamv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachamv&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!--**Streak Stats** | <a href="http://www.github.com/Rachamv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachamv&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
 
 ----
 
