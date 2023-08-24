@@ -213,6 +213,69 @@ p {
 }
 
 /* Other section styles */
+/* About section */
+.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+.about-content {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.about-image img {
+  max-width: 100%;
+  border-radius: 50%;
+  animation: slideRight 1s ease-in-out;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-text p {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.about-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: var(--bright);
+  color: var(--body);
+  font-size: 1rem;
+  text-decoration: none;
+  border-radius: 0.3rem;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.about-link:hover {
+  background-color: var(--accent);
+}
+
+/* Tech Stack section */
+.tech-stack-list {
+  list-style: none;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.tech-stack-list li {
+  margin-bottom: 1rem;
+}
+
+/* GitHub Stats and Contribution Graph sections */
+.github-stats,
+.contribution-graph {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
 /* ... (about, portfolio, services, contact styles) ... */
 
 /* Footer styles */
