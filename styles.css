@@ -21,40 +21,40 @@
 /* Reset and font loading styles */
 @font-face {
   font-family: 'GT Sectra';
-  src: url('fonts/GT-Sectra-Book.woff2') format('woff2'),
-       url('fonts/GT-Sectra-Book.woff') format('woff');
+  src: url('.fonts/GT-Sectra-Book.woff2') format('woff2'),
+       url('.fonts/GT-Sectra-Book.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'GT Sectra';
-  src: url('fonts/GT-Sectra-Book-Italic.woff2') format('woff2'),
-       url('fonts/GT-Sectra-Book-Italic.woff') format('woff');
+  src: url('.fonts/GT-Sectra-Book-Italic.woff2') format('woff2'),
+       url('.fonts/GT-Sectra-Book-Italic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Input Mono';
-  src: url('fonts/InputMono-Regular.woff2') format('woff2'),
-       url('fonts/InputMono-Regular.woff') format('woff');
+  src: url('.fonts/InputMono-Regular.woff2') format('woff2'),
+       url('.fonts/InputMono-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Moderat';
-  src: url('fonts/Moderat-Regular.woff2') format('woff2'),
-       url('fonts/Moderat-Regular.woff') format('woff');
+  src: url('.fonts/Moderat-Regular.woff2') format('woff2'),
+       url('.fonts/Moderat-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Moderat';
-  src: url('fonts/Moderat-Bold.woff2') format('woff2'),
-       url('fonts/Moderat-Bold.woff') format('woff');
+  src: url('.fonts/Moderat-Bold.woff2') format('woff2'),
+       url('.fonts/Moderat-Bold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
