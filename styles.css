@@ -352,7 +352,76 @@ p {
 }
 
 
-/* ... (about, portfolio, services, contact styles) ... */
+/* ... (portfolio styles) ... */
+/* Portfolio Section */
+#portfolio {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 36px;
+  color: var(--bright);
+  margin-bottom: 40px;
+}
+
+.project-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
+.project-box {
+  flex: 1;
+  max-width: 350px;
+  background-color: var(--accent);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.project-box:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.project {
+  text-align: left;
+}
+
+.project h3 {
+  font-size: 24px;
+  margin-top: 0;
+}
+
+.project img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-top: 15px;
+}
+
+.project p {
+  margin-top: 15px;
+  font-size: 16px;
+  color: var(--bright);
+}
+
+.project a {
+  display: block;
+  margin-top: 10px;
+  color: var(--bright);
+  font-weight: bold;
+  transition: color 0.2s;
+}
+
+.project a:hover {
+  color: var(--accent);
+}
+
 /* ... (about, portfolio, services, contact styles) ... */
 
 /* Footer styles */
