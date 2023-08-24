@@ -18,6 +18,8 @@ setInterval(() => {
   changePalette();
 }, 10000);
 
-// Update the content of the span element with the current year
-const currentYear = new Date().getFullYear();
-document.getElementById('current-year').textContent = currentYear;
+document.addEventListener('DOMContentLoaded', function() {
+    const currentYear = new Date().getFullYear();
+    document.getElementById('current-year').textContent = currentYear;
+  });
+
