@@ -276,6 +276,83 @@ p {
   align-items: center;
   gap: 2rem;
 }
+/* ... ( contact styles) ... */
+/* Styles for Contact page */
+.contact-form {
+  margin-top: 2rem;
+  padding: 2rem;
+  background-color: var(--body);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-form label {
+  font-weight: bold;
+  color: var(--bright);
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 0.5rem;
+  border: 1px solid var(--bright);
+  border-radius: 5px;
+  background-color: var(--body);
+  color: var(--bright);
+}
+
+.contact-form button {
+  padding: 0.5rem 1rem;
+  background-color: var(--bright);
+  color: var(--body);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-info {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: var(--body);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info h2 {
+  color: var(--bright);
+  margin-bottom: 1rem;
+}
+
+.social-links,
+.contact-links {
+  list-style: none;
+  padding: 0;
+}
+
+.social-links li,
+.contact-links li {
+  margin-bottom: 0.5rem;
+}
+
+.social-links a,
+.contact-links a {
+  color: var(--bright);
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+.social-links a:hover,
+.contact-links a:hover {
+  color: var(--accent);
+}
+
+
+/* ... (about, portfolio, services, contact styles) ... */
 /* ... (about, portfolio, services, contact styles) ... */
 
 /* Footer styles */

@@ -1,33 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
-    <title>About - Oladele Adewunmi</title>
-  </head>
-  <body class="palette-10">
-    <!-- Apply the desired color palette class here -->
-
-    <nav class="navbar">
-      <div class="nav-text-logo">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Contact - Oladele Adewunmi</title>
+</head>
+<body class="palette-40">
+  <nav class="navbar">
+    <div class="nav-text-logo">
         <h2>Rachamv</h2>
-      </div>
-      <ul class="nav-links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="/about.html">About</a></li>
-        <li><a href="/portfolio">Portfolio</a></li>
-        <li><a href="/services">Services</a></li>
-        <li><a href="/contact">Contact</a></li>
-      </ul>
-    </nav>
+    </div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
 
- 
+  <section class="content-wrapper">
+    <h1 class="section-title">Contact Me</h1>
+    <div class="contact-form">
+      <form action="mailto:rkutalian@gmail.com" method="post">
+        <div class="form-group">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" rows="4" required></textarea>
+        </div>
+        <button type="submit" class="contact-button">Send Message</button>
+      </form>
+    </div>
+  </section>
 
-    <footer class="footer">
-      <p>&copy; 2023 Oladele Adewunmi. All rights reserved.</p>
-    </footer>
+  <section class="contact-info">
+    <h2 class="section-title">Social</h2>
+    <p>Connect with me on various platforms:</p>
+    <ul class="social-links">
+      <li><a href="https://twitter.com/racham_v">Twitter</a></li>
+      <li><a href="https://linkedin.com/in/adewunmi-oladele-77a846215">LinkedIn</a></li>
+      <li><a href="https://fb.com/racham.victor">Facebook</a></li>
+      <li><a href="https://instagram.com/rachamv">Instagram</a></li>
+    </ul>
+  </section>
 
-    <script src="script.js"></script>
-  </body>
+  <section class="contact-info">
+    <h2 class="section-title">Contact</h2>
+    <p>Feel free to reach out:</p>
+    <ul class="contact-links">
+      <li>Stack Overflow: <a href="https://stackoverflow.com/users/17370499/adewunmi-oladele">Profile</a></li>
+      <li>Dev.to: <a href="https://dev.to/rachamv">Profile</a></li>
+      <li>YouTube: <a href="https://www.youtube.com/channel/UCrB129CR33COpYrlswDSs_A">Channel</a></li>
+      <li>Medium: <a href="https://medium.com/@rachamvictor">Profile</a></li>
+    </ul>
+  </section>
+
+  <footer class="footer">
+    <p><span id="current-year"></span> Oladele Adewunmi. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
 </html>
