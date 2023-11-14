@@ -4,7 +4,7 @@
 # Fast Set
 S/N | Code    | Name                                        | Address                                               |       Contact                       | Mark|
 |----|---------|------------------------------------------------|---------------------------------------------------------------|------------------------------------|-------------|
-1 | LAG2212316 |Adamu stores         | 9, ishola bello akiode berger Ismail |(08000000000) | Done
+<strong> 1 | LAG2212316 |Adamu stores         | 9, ishola bello akiode berger Ismail |(08000000000) | Done </strong>
 2 | LAG2212322 |Habeed kiosk              | 33, ishola bello akiode berger Mr habeeb  |(08000000000)  | Done
 3 | LAG2247895  | Mr Sunday store        | 3, Agbedina street isheri berger Emmanuel ugochukwu |(08000000000)  |Done
 4 | IKJ0147  | Abduramoh kiosks      | 16, Odozi, Opp zinsou str, Zinsou, Ikeja, Ikeja Abduramoh Abduramoh  |(8000000000)  |Done
