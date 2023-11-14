@@ -28,7 +28,7 @@ S/N | Code    | Name                                        | Address           
 11 | LAG2161488  | Mary ventures            | 3, obafalabi street ojodu berger Mary moses  |(7085385122)                           |
 12 | LAG2161490  | M.C TRUST IN GOD SUPRETTES | 5, obafalabi street ojodu berger Chibike opara |(9064524105)                        |
 13 | IKJ0129 |T & K store                      | 35, Ishola bello, Ishola, Ishola, Ikeja, Ikeja Mrs ogundowole  |(08164635783)  |
-14 | IKJ0143  | Ibrahim kiosk                  |21 ishola bello | Usaini Ibrahim  |(07061540277)  |
+14 | IKJ0143  | Ibrahim kiosk                  |21 ishola bello Usaini Ibrahim  |(07061540277)  |
 15 | IKJ0115  | Godown store                   | 61 Ishola bello Ikeja Ishola Ishola Bello Mrs udeagha  |(8037204935) |
 16 | IKJ0078  | ZANGO STORE          | 27, Illo street ipodo, Ikeja, Ipodo, Ikeja Mr sanni Auwal  |(7065978145)  |
 17 | LAG3618844 | Vicams foodstore           | 39, oremeta street ojodu berger Mrs Nwankwo  |(8064675533) |
@@ -40,8 +40,8 @@ S/N | Code    | Name                                        | Address           
 23 | IKJ0141  | Olatunji store             | 46, Budland, Gramma Sch, Ojodu, Ikeja, Ikeja Funmilayo  |(09136895624) |
 24 | IKJ0114  | Harkorede Neighborhood shop  | 37 Budland Ikeja Budland Budland Soneye |(7012245899)  |
 25 | IKJ0142  | Ebuka ventures                | 34 bashiru street ojodu berger, lagos Ebuka  |(8148055524)
-26 | LAG2245889  | Mallam saliu            | 2, alanu street ojodu berger Saliu  |(08154569870)                                   |
-27 | LAG2245888  | Iya mida                 | 3, alanu street ojodu berger Iya mida  |(07052851676)                               |
+26 | LAG2245889  | Mallam saliu            | 2, alanu street ojodu berger Saliu  |(08154569870)        |
+27 | LAG2245888  | Iya mida                 | 3, alanu street ojodu berger Iya mida  |(07052851676)         |
 28 | IKJ0149  | Green gate store             | 12, omotola street Berger Mrs chidima  |(08035072271)  |
 29 | IKJ0148  | Mummy Mukaila Store       | 10, Omotola, Omotola, Omotola, Ikeja, Ikeja Mrs Mukaila Mrs Mukaila  |(8038476543)   |
 30 | IKJ0131  | lya Alaje store             | 29, Irepodun, Irepodun, Akiode, Ikeja, Ikeja Iya Alaje lya Alaje  |(7034724971)       |
@@ -55,12 +55,12 @@ S/N | Code    | Name                                        | Address           
 # Location: Akiode
 S/N | Code    | Name                                        | Address                                               |       Contact                       | Mark|
 |----|---------|------------------------------------------------|---------------------------------------------------------------|------------------------------------|-------------|
-1 | LAG2212317  | Aliyu store         | 56. ishola bello akiode berger Aliyu  |(07038956296)                          |
-2 | LAG2212314  | Amaka suprettes     | 8, ishola bello akiode berger Mrs Amaka  |(08052178634,08120760279)          |
-3 | LAG2212319 |Emmanuel store              | 11, ishola bello akiode berger Mr emmanuel |(08060357805)                |
-4 | LAG2212315  | Chidon stores              | 11, ishola bello akiode berger Mr chidon |(09011443211)                   |
+1 | LAG2212317  | Aliyu store         | 56. ishola bello akiode berger Aliyu  |(07038956296)       |
+2 | LAG2212314  | Amaka suprettes     | 8, ishola bello akiode berger Mrs Amaka  |(08052178634,08120760279)    |
+3 | LAG2212319 |Emmanuel store              | 11, ishola bello akiode berger Mr emmanuel |(08060357805)     |
+4 | LAG2212315  | Chidon stores              | 11, ishola bello akiode berger Mr chidon |(09011443211)        |
 5 | LAG2212321 |Mohammed jibu kiosk      | 17, ishola bello akiode berger Mohammed jibu |(09067636158)     |
-6 | LAG2212318  | Kehinde ventures         | 13, ishola bello akiode berger Mrs Kehinde  |(08131662890)                          |
+6 | LAG2212318  | Kehinde ventures         | 13, ishola bello akiode berger Mrs Kehinde  |(08131662890)       |
 7 | LAG2212320  | Rahuma store                | 12, Ishola Bello Akiode Mrs Fatima Usain  |(08086864773)  |
 
 
@@ -78,7 +78,7 @@ S/N | Code    | Name                                        | Address           
 7 | LAG2212327 |D young foodstuffs           | 15, ogunriver isheri berger Stephen  |(09029629561)                        |
 8 | LAG2212333 |Benol pharmacy               | 8, isheri magodo road Abidat |(07039789259)                               |
 9 | LAG2212335 |Care worth pharmacy          | 42/44 old olowora road berger Mrs ganiyat makinde  |(08082163145)          |
-10 | LAG2247897  | Iya Bose store           | 19, daramola street isheri berger Mrs bose  |(07036086751)                          |
+10 | LAG2247897  | Iya Bose store           | 19, daramola street isheri berger Mrs bose  |(07036086751)         |
 11 | LAG2247896 |Igwe store                | 5, Agbedina street isheri berger Chinedu john |(09079212729)  |
 12 | LAG2212341  | Innoso enterprises       | 24, ogunriver isheri berger Nwoke sunday  |(09092295682)  |
 13 | LAG2245895  | lya Adura store          | Stall 2324 isheri market Mrs Alabi  |(08117775627)  |
@@ -134,7 +134,7 @@ S/N | Code    | Name                                        | Address           
 1 | ALI0183  | Abdulahi stores      | 18, Karimu laka, Adjacent to redeem church, Egbeda, Alimosho, Alimos Lawal Abdulahi |(7031258083) |
 2 | LAG3618848 |Abdulqadri store     | 10, Karimu laka street egbeda, Beside Alhaji rasaq street, Alimosho, Abdulqadri  |(8165190026)  |
 3 | LAG2245886  | Emmadave store            | 8, olaniyi street egbeda Mrs oladapo  |(08028780402)                      |
-4 | LAG3241764 |BIWAD STORE                 | 7, karimu laka street egbeda Mrs ose  |(07086491998)                     |
+4 | LAG3241764 |BIWAD STORE                 | 7, karimu laka street egbeda Mrs ose  |(07086491998)    |
 5 | LAG2245887 |Sanucon store      | 13/15 karimu laka street egbeda Quadri salau  |(07066753506)  |
 6 | LAG3618847  | Shop upright      | 2 34rd c&i close egbeda gowon estate egbeda lagos,  Alimosho, Chibiki  |(9168065695) |
 7 | ALI0214  | SUNFEL STORES         | 3, Destiny avenue, Adj to reedeem Christian church of God, Alimosho, Egbeda, Alimosho Deby Sunfel |(8033464818)  |
@@ -145,7 +145,7 @@ S/N | Code    | Name                                        | Address           
 12 | LAG2245901  | Mrs busari stores      | BT 102, Navy block H close Gowon estate Mrs mojisola busari |(07060920427)     |
 13  | LAG3111676 |Mum adeola     | 41, oredapo street shasha egbeda Mum adeola  |(7032800873)             |
 14 | LAG3111675 |Mum Ayo store            | 12, oredapo street shasha egbeda Mum ayo  |(7064374460)       |
-15 | LAG2245900  | Mum ify store          | BT 94 police block Gowon estate Mrs Patricia  |(07036228431)                                  |
+15 | LAG2245900  | Mum ify store          | BT 94 police block Gowon estate Mrs Patricia  |(07036228431)      |
 16 | ALI0174  | Mrs Agabi stores          | Bt 101, 34 road k close gowon estate, Adjacent to Dee joyce school, Egbeda, Alimosho, Alimosho Mrs Agabi  |(8057422667) |
 17 | LAG2212342  | Mama k                   | 3, duduyemi street egbeda Mrs odutomi |(07033942780 08057920823)                     |
 18  | ALI0211  | God's time ventures          | Block 99 Gowon estate H close egbeda Mrs joy peter  |(08136590697)                        |                      |
