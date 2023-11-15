@@ -118,13 +118,13 @@ S/N | Code    | Name                                        | Address           
 # Location: Agege
 S/N | Code    | Name                                        | Address                                               |       Contact                       | Mark|
 |----|---------|------------------------------------------------|---------------------------------------------------------------|------------------------------------|-------------|
-1| LAG3611339  | Alhaji bello store  | 53, Market street oniwaya Agege Opp the train station, Agege,  |(8066497562)  |
-2   | AGE0084  | Alhaji musa store   | 80, Market street oniwaya Agege, Opp the train station, Agege, musa |(8033194784) |
+1 | LAG3611339  | Alhaji bello store  | 53, Market street oniwaya Agege Opp the train station, Agege,  |(8066497562)  |
+2 | AGE0070  | GREAT HOPE UNIVERSAL VENTURES | Shop 14 Police carpark Agege Adjacent to isokoko police station Agege  |(8027830346) |
 3 | LAG3618852 |Saidi store                   | 52, Market Street Oniwaya Agege Opp the train station, Agege,   |(9138400365) |
 4 | AGE0080  | Salau store  | Shop 14, Carpark Oniwaya Market Agege, Adjacent to Isokoko police station, Agege,   |(09068953202) |
 5 | AGE0069  | M.C onyebuchi ventures      | 48 Akerele str oniwaya market Agege Opp market street Agege Kelvin Kelvin  |(7080824119) |
 6 | LAG3618846 |Mummy Divine store       | 54, Market street oniwaya Agege Opp the train station, Agege,  |(8125411266) |
-7  | AGE0070  | GREAT HOPE UNIVERSAL VENTURES | Shop 14 Police carpark Agege Adjacent to isokoko police station Agege  |(8027830346) |
+ 
 
 
 
