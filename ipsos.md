@@ -159,23 +159,23 @@ S/N | Code    | Name                                        | Address           
 # Replace
 S/N | Code    | Name                                        | Address                                               |       Contact                       | Mark|
 |----|---------|------------------------------------------------|---------------------------------------------------------------|------------------------------------|-------------|
-1 | LAG2212343  | Bosfad fastfood            | Stall 4 Gowon estate market egbeda Mrs olashebikan funmilayo  |(08033054417) |
-2 | LAG2245899  | Capable store              | BT 99 police block Gowon estate Ola capable |(08179160472)  |
-3 | LAG2247891  | Temi grocery store           | 7, ilobu street off oko oba road Agege Temitope toyosi  |(08138425791)  |
-4 | LAG3241763  | Ayinke stores              | 10, ilobu street oko oba road agege Mrs ayinke  |(08080324311)            |
-5 | LAG2247892 |Chibest store               | 11. ilobu street off oko oba road Agege Mrs chichi |(08067159037)         |
-6 | LAG2212339  | Evans store                  | 43, Aina street ojodu berger Mrs Philip  |(08038394318)|
-7 | LAG2212340  | Adevic store        | 40, aina street ojodu berger Mum twins  |(08088542956)|
-8 |LAG2212337 |Wizlth pharmacy    | 35, oremeta street ojodu berger Opeyemi  |(08027782517)  |
-9 | ALI0257  | Blessing k stores  | 20, Karimu laka street egbeda, Beside Alhaji rasaq street, Egbeda Blessing Blessing |(9162999852) |
-10   | ALI0122  | Big brother supermarket      | 1, 34rd c&i close egbeda gowon estate egbeda lagos,  Igwem esther |(8081104394) |
-11 | LAG2245884  | Folarin store               | 2, Alhaji rasaq street egbeda Mrs folarin Adizat  |(08024764273) |
-12 | ALI0180  | Precious link store            | 17/19, Karimu laka, Adjacent to Redeem church, Egbeda, Alimosho  |(8187054162) |
-13 | LAG2247898  | Ona Ara ventures            | 7, Agbedina Street Isheri Berger Mrs Ronke Ifeoluwa Samuel |(08068411066) |
-14  | AGE0084  | Alhaji musa store       | 80, Market street oniwaya Agege, Opp the train station, Agege, |(8033194784)  |
-15 | AGE0067  | HELEN VENTURES      | 38 Oniwaya market Agege Adjacent mountain of fire church Agege oniwaya market  |(8037821669) |
-16 | ALI0175 |God's Grace store              | 8, duduyemi street off karimu laka street egbeda lagos Mrs funmi  |(08174146450) |
-17 | ALI0204  | MAMAK                      | 3, Duduyemi, Alimosho Mrs odutomi |(08057920823 07033942780) |
+1 | LAG2212343  | Bosfad fastfood            | Stall 4 Gowon estate market egbeda Mrs olashebikan funmilayo  |(08033054417) | D
+2 | LAG2245899  | Capable store              | BT 99 police block Gowon estate Ola capable |(08179160472)  | D
+3 | LAG2247891  | Temi grocery store           | 7, ilobu street off oko oba road Agege Temitope toyosi  |(08138425791)  | D
+4 | LAG3241763  | Ayinke stores              | 10, ilobu street oko oba road agege Mrs ayinke  |(08080324311)            | D
+5 | LAG2247892 |Chibest store               | 11. ilobu street off oko oba road Agege Mrs chichi |(08067159037)         | D
+6 | LAG2212339  | Evans store                  | 43, Aina street ojodu berger Mrs Philip  |(08038394318)| D
+7 | LAG2212340  | Adevic store        | 40, aina street ojodu berger Mum twins  |(08088542956)| D
+8 |LAG2212337 |Wizlth pharmacy    | 35, oremeta street ojodu berger Opeyemi  |(08027782517)  | D
+9 | ALI0257  | Blessing k stores  | 20, Karimu laka street egbeda, Beside Alhaji rasaq street, Egbeda Blessing Blessing |(9162999852) | D
+10   | ALI0122  | Big brother supermarket      | 1, 34rd c&i close egbeda gowon estate egbeda lagos,  Igwem esther |(8081104394) | D
+11 | LAG2245884  | Folarin store               | 2, Alhaji rasaq street egbeda Mrs folarin Adizat  |(08024764273) | D
+12 | ALI0180  | Precious link store            | 17/19, Karimu laka, Adjacent to Redeem church, Egbeda, Alimosho  |(8187054162) | D
+13 | LAG2247898  | Ona Ara ventures            | 7, Agbedina Street Isheri Berger Mrs Ronke Ifeoluwa Samuel |(08068411066) | D
+14  | AGE0084  | Alhaji musa store       | 80, Market street oniwaya Agege, Opp the train station, Agege, |(8033194784)  | D
+15 | AGE0067  | HELEN VENTURES      | 38 Oniwaya market Agege Adjacent mountain of fire church Agege oniwaya market  |(8037821669) | D
+16 | ALI0175 |God's Grace store              | 8, duduyemi street off karimu laka street egbeda lagos Mrs funmi  |(08174146450) | D
+17 | ALI0204  | MAMAK                      | 3, Duduyemi, Alimosho Mrs odutomi |(08057920823 07033942780) | D
 29 | LAG2245894 |Oya store                     | 7b Magodo Road Phase 1 Isheri Mrs Odubitan  |(08028070332) | 2go
 18 | LAG2247890  | Iya Azeez store          | 6, ilobu street Agege Esther Akinwunmi  |(09032064796)   | 2go
 19 | LAG2247900 |God's covenant store       | 2, daramola street isheri berger Mrs jejeniwa |(08166635658)  | 2go
