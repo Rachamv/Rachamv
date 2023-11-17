@@ -254,10 +254,10 @@ S/N |  Name                                        | Address                    
 |----:|:--------:|:----------------:|:-----:|:----:|:--------:|:-----------:|:-----------:|
 |  2  |   Milk   |     Coolcow      |   80  | 12G  |    5     |      30     |
 |  3  |   Milk   |       Dano       |   80  | 12G  |    5     |      30     |
-|  4  |   Milk   |  Peak Milk Tin   |  400  | 150G |    5     |      10     |
+|  4  |   Milk   |  Peak Milk Tin   |  400  | 150G |    5     |      10     | m
 |  5  |   Milk   | Peak Milk Powder |  120  | 14G  |    5     |      30     |
-|  6  |   Milk   | Three Crown Tin  |  400  | 150G |    5     |      10     |
-|  7  |   Milk   |  Three Powder    |   80  | 12G  |    5     |      30     |
+|  6  |   Milk   | Three Crown Tin  |  400  | 150G |    5     |      10     |m
+|  7  |   Milk   |  Three Powder    |  100  | 12G  |    5     |      30     |
 
 ## Noodles (Catoon)
 | S/N |   Category   |         Product Name         | Price |  Gram  | Purchase | Front Stock |  Catoon |
@@ -281,7 +281,7 @@ S/N |  Name                                        | Address                    
 ## Pasta (Catoon)
 | S/N | Category |     Product Name     | Price |   Gram   | Purchase | Front Stock |  Catoon |
 |----:|:--------:|:---------------------:|:-----:|:-------:|:--------:|:-----------:|:-----------:|
-| 1  |  Pasta   | Golden Penny Macaroni |  600  |  500g   |    8     |      10     |
+| 1  |  Pasta   | Golden Penny Macaroni |  650  |  500g   |    8     |      10     |
 | 2  |  Pasta   |         Twist         |   -   |    -    |    -     |      -      |
 | 3  |  Pasta   |      Spaghetti       |   -   |    -    |    -     |      -      |
 | 4  |  Pasta   |     Spaghettini      |   -   |    -    |    -     |      -      |
@@ -289,6 +289,6 @@ S/N |  Name                                        | Address                    
 ## Sugar
 | S/N | Category |  Product Name  | Price |   Gram   | Purchase | Front Stock |  Catoon |
 |----:|:--------:|:--------------:|:-----:|:-------:|:--------:|:-----------:|:-----------:|
-| 1  |  Sugar   | Dangote 1kg    | 1200  |   1kg   |   30     |      10     |
-| 2  |  Sugar   | Dangote 500g   |  600  |   500g  |   30     |      10     |
-| 3  |  Sugar   | Dangote 250g   |  300  |   250g  |   30     |      10     |
+| 1  |  Sugar   | Dangote 1kg    | 1400  |   1kg   |   30     |      10     |
+| 2  |  Sugar   | Dangote 500g   |  700  |   500g  |   30     |      10     |
+| 3  |  Sugar   | Dangote 250g   |  350  |   250g  |   30     |      10     |
