@@ -118,12 +118,12 @@ S/N | Code    | Name                                        | Address           
 # Location: Agege
 S/N | Code    | Name                                        | Address                                               |       Contact                       | Mark|
 |----|---------|------------------------------------------------|---------------------------------------------------------------|------------------------------------|-------------|
-1 | LAG3611339  | Alhaji bello store  | 53, Market street oniwaya Agege Opp the train station, Agege,  |(8066497562)  |
-2 | AGE0070  | GREAT HOPE UNIVERSAL VENTURES | Shop 14 Police carpark Agege Adjacent to isokoko police station Agege  |(8027830346) |
-3 | LAG3618852 |Saidi store                   | 52, Market Street Oniwaya Agege Opp the train station, Agege,   |(9138400365) |
-4 | AGE0080  | Salau store  | Shop 14, Carpark Oniwaya Market Agege, Adjacent to Isokoko police station, Agege,   |(09068953202) |
-5 | AGE0069  | M.C onyebuchi ventures      | 48 Akerele str oniwaya market Agege Opp market street Agege Kelvin Kelvin  |(7080824119) |
-6 | LAG3618846 |Mummy Divine store       | 54, Market street oniwaya Agege Opp the train station, Agege,  |(8125411266) |
+1 | LAG3611339  | Alhaji bello store  | 53, Market street oniwaya Agege Opp the train station, Agege,  |(8066497562)  | D
+2 | AGE0070  | GREAT HOPE UNIVERSAL VENTURES | Shop 14 Police carpark Agege Adjacent to isokoko police station Agege  |(8027830346) | D
+3 | LAG3618852 |Saidi store                   | 52, Market Street Oniwaya Agege Opp the train station, Agege,   |(9138400365) | D
+4 | AGE0080  | Salau store  | Shop 14, Carpark Oniwaya Market Agege, Adjacent to Isokoko police station, Agege,   |(09068953202) | D
+5 | AGE0069  | M.C onyebuchi ventures      | 48 Akerele str oniwaya market Agege Opp market street Agege Kelvin Kelvin  |(7080824119) | D
+6 | LAG3618846 |Mummy Divine store       | 54, Market street oniwaya Agege Opp the train station, Agege,  |(8125411266) | D
  
 
 
@@ -192,3 +192,103 @@ S/N |  Name                                        | Address                    
 |----|---------------------------------------------------------|---------------------------------------------------------------|------------------------------------|-------------|
 1 | Kaji pharmacy | No 6 daramola street isheri berger |08137403670, 0701241900 | LAG2247900
 2 |Cynbris store | 7 magodo road phase 1 isheri | 08038465666 | LAG2245894
+
+
+# Price
+
+## Breakfast Cereal
+| S/N |   Category          | Product Name         | Price | Gram | Purchase | Front Stock |  Catoon |
+|----:|:-------------------:|:---------------------:|:-----:|:----:|:--------:|:-----------:|:-----------:|
+|  1  | Breakfast Cereal    | Golden Morn           |  150  | 45G  |    40    |      40     |
+|  2  | Breakfast Cereal    | Kellogg's Coco Pops   |  100  | 30G  |    40    |      40     |
+|  3  | Breakfast Cereal    | Nasco Corn            |  100  | 30G  |    40    |      40     |
+
+
+## Ball Food
+| S/N | Category | Product Name | Price | Gram | Purchase | Front Stock |  Catoon |
+|----:|:--------:|:------------:|:-----:|:----:|:--------:|:-----------:|:-----------:|
+|  1  | Ball Food |   Semovita   | 1000  | 1kg  |    6     |      10     |
+|  2  | Ball Food |      --      |  500  | 500g |    -     |      -      |
+
+## Biscuits
+| S/N | Category | Product Name | Price | Gram | Purchase | Front Stock |  Catoon |
+|----:|:--------:|:------------:|:-----:|:----:|:--------:|:-----------:|:-----------:|
+|  1  | Biscuits |     Festo    |   50  | 40g  |    5     |      10     |
+|  2  | Biscuits |   Parle G     |   50  | 45g  |    50    |      -      |
+
+## Bleach
+| S/N | Category |     Product Name      | Price |   Gram   | Purchase | Front Stock |  Catoon |
+|----:|:--------:|:----------------------:|:-----:|:-------:|:--------:|:-----------:|:-----------:|
+|  1  |  Bleach  | Hypo Super Pet        | 1000  | 1000ml  |    3     |      3      |
+|  2  |  Bleach  |           --           |  500  |  500ml  |    -     |      -      |
+|  3  |  Bleach  |           --           |   50  |   75ml  |    -     |      -      |
+
+
+## Chocolate Milk Drink
+| S/N |      Category        |    Product Name     | Price | Gram | Purchase | Front Stock |  Catoon |
+|----:|:---------------------:|:-------------------:|:-----:|:----:|:--------:|:-----------:|:-----------:|
+|  1  | Chocolate Milk Drink | Cadbury 3in1         |  150  | 30G  |    5     |      30     |
+|  2  | Chocolate Milk Drink | Milo                |  100  | 20G  |    5     |      30     |
+|  3  | Chocolate Milk Drink | Bournvita           |  100  | 20G  |    5     |      30     |
+|  4  | Chocolate Milk Drink | Cowbell Chocolate   |  100  | 20G  |    5     |      30     |
+|  5  | Chocolate Milk Drink | Cowbell Coffee      |  100  | 20G  |    5     |      30     |
+
+
+## Edible Oil
+| S/N | Category  | Product Name | Price | Gram | Purchase | Front Stock |  Catoon |
+|----:|:---------:|:------------:|:-----:|:----:|:--------:|:-----------:|:-----------:|
+|  1  | Edible Oil |  Power Oil    |  120  | 60ml |    50    |      50     |
+
+
+## Fats (Spread)
+| S/N | Category       | Product Name   | Price | Gram | Purchase | Front Stock | Catoon |
+|----:|:--------------:|:--------------:|:-----:|:----:|:--------:|:-----------:|:-----------:|
+|  1  | Fats (Spread)  | Golden Penny   |  50   | 15g  |    50    |      10     | 450         |
+|  2  | Fats (Spread)  |      ``        |  600  | 250g |    10    |      5      |
+|  3  | Fats (Spread)  |   Blue Band    | 1200 | 250g |    10    |      5      |
+|  4  | Fats (Spread)  |     Vatali     |  900  | 450g |     8    |      4      |
+
+
+## Milk
+| S/N | Category |  Product Name   | Price | Gram | Purchase | Front Stock |  Catoon |
+|----:|:--------:|:----------------:|:-----:|:----:|:--------:|:-----------:|:-----------:|
+|  2  |   Milk   |     Coolcow      |   80  | 12G  |    5     |      30     |
+|  3  |   Milk   |       Dano       |   80  | 12G  |    5     |      30     |
+|  4  |   Milk   |  Peak Milk Tin   |  400  | 150G |    5     |      10     |
+|  5  |   Milk   | Peak Milk Powder |  120  | 14G  |    5     |      30     |
+|  6  |   Milk   | Three Crown Tin  |  400  | 150G |    5     |      10     |
+|  7  |   Milk   |  Three Powder    |   80  | 12G  |    5     |      30     |
+
+## Noodles (Catoon)
+| S/N |   Category   |         Product Name         | Price |  Gram  | Purchase | Front Stock |  Catoon |
+|----:|:------------:|:-----------------------------:|:-----:|:------:|:--------:|:-----------:|:-----------:|
+|  1  | Noodles (Catoon) | Indomie Chicken 120G     |  250  | 120G  |    8     |      10     |
+|  2  | Noodles (Catoon) | Indomie Chicken 180G     |  400  | 180G  |    6     |      10     |
+| 3  | Noodles (Catoon) | Indomie Chicken 280G     |  500  | 280G  |    5     |      10     |
+| 4  | Noodles (Catoon) | Indomie Chicken 70G      |  150  |  70G  |   15     |      10     |
+| 5  | Noodles (Catoon) | Indomie Onion Chicken 120G| 250  | 120G  |    8     |      10     |
+| 6  | Noodles (Catoon) | Indomie Onion Chicken 70G | 150  |  70G  |    8     |      10     |
+| 7  | Noodles (Catoon) | Indomie Onion Chicken 180G| 400  | 180G  |    8     |      10     |
+
+## Oral
+| S/N | Category |     Product Name      | Price |   Gram   | Purchase | Front Stock |  Catoon |
+|----:|:--------:|:----------------------:|:-----:|:-------:|:--------:|:-----------:|:-----------:|
+| 1  |   Oral   | Colgate Herbal Tube   |  800  |  140G   |   10     |      10     |
+| 2  |   Oral   |    Colgate Sachet     |   50  |   9G    |    3     |      30     |
+| 3  |   Oral   |      Oral B Tube      |  800  |  140G   |   10     |      10     |
+| 4  |   Oral   |      Oral Sachet      |   50  |   12G   |    3     |      30     |
+
+## Pasta (Catoon)
+| S/N | Category |     Product Name     | Price |   Gram   | Purchase | Front Stock |  Catoon |
+|----:|:--------:|:---------------------:|:-----:|:-------:|:--------:|:-----------:|:-----------:|
+| 1  |  Pasta   | Golden Penny Macaroni |  600  |  500g   |    8     |      10     |
+| 2  |  Pasta   |         Twist         |   -   |    -    |    -     |      -      |
+| 3  |  Pasta   |      Spaghetti       |   -   |    -    |    -     |      -      |
+| 4  |  Pasta   |     Spaghettini      |   -   |    -    |    -     |      -      |
+
+## Sugar
+| S/N | Category |  Product Name  | Price |   Gram   | Purchase | Front Stock |  Catoon |
+|----:|:--------:|:--------------:|:-----:|:-------:|:--------:|:-----------:|:-----------:|
+| 1  |  Sugar   | Dangote 1kg    | 1200  |   1kg   |   30     |      10     |
+| 2  |  Sugar   | Dangote 500g   |  600  |   500g  |   30     |      10     |
+| 3  |  Sugar   | Dangote 250g   |  300  |   250g  |   30     |      10     |
