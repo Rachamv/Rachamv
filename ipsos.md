@@ -97,6 +97,7 @@ S/N | Code    | Name                                        | Address           
 26 | LAG2212323  | Faustina pharmacy and provision | 2. Ogunriver olowora berger Mr festus  |(08034084788) |
 27 | LAG2212336 |Tru drug pharmacy   | 35, olowora road berger Tosin  |(08033454869)  |
 28 | LAG2212334  | Med consort pharmacy     | 5. old olowora road berger Rebecca  |(07012515596)     |
+29|Cynbris store | 7 magodo road phase 1 isheri | 08038465666 | LAG2245894
 
 
 
@@ -176,9 +177,9 @@ S/N | Code    | Name                                        | Address           
 15 | AGE0067  | HELEN VENTURES      | 38 Oniwaya market Agege Adjacent mountain of fire church Agege oniwaya market  |(8037821669) | D
 16 | ALI0175 |God's Grace store              | 8, duduyemi street off karimu laka street egbeda lagos Mrs funmi  |(08174146450) | D
 17 | ALI0204  | MAMAK                      | 3, Duduyemi, Alimosho Mrs odutomi |(08057920823 07033942780) | D
-29 | LAG2245894 |Oya store                     | 7b Magodo Road Phase 1 Isheri Mrs Odubitan  |(08028070332) | 2go
+29 | LAG2245894 |Oya store                     | 7b Magodo Road Phase 1 Isheri Mrs Odubitan  |(08028070332) | D
 18 | LAG2247890  | Iya Azeez store          | 6, ilobu street Agege Esther Akinwunmi  |(09032064796)   | 2go
-19 | LAG2247900 |God's covenant store       | 2, daramola street isheri berger Mrs jejeniwa |(08166635658)  | 2go
+19 | LAG2247900 |God's covenant store       | 2, daramola street isheri berger Mrs jejeniwa |(08166635658)  | D
 20 | LAG2212326  | Alhaja M.A store    | 14, ogunriver isheri berger Alhaja M.A ojikutu |(08143140348)  | 2go
 21 | LAG2245902  | Ona Ara store               | 43, Old Oko Oba Road Agege Mrs Adebayo  |(08023954056)    | 2go
 22 | AGE0068  | GOD BLESS STORE                | 38 38 Agege Opp fun snax branded building Agege |(8138883469) | 2go
@@ -191,7 +192,7 @@ S/N | Code    | Name                                        | Address           
 S/N |  Name                                        | Address                                               |       Contact                       | ID
 |----|---------------------------------------------------------|---------------------------------------------------------------|------------------------------------|-------------|
 1 | Kaji pharmacy | No 6 daramola street isheri berger |08137403670, 0701241900 | LAG2247900
-2 |Cynbris store | 7 magodo road phase 1 isheri | 08038465666 | LAG2245894
+
 
 
 # Price
