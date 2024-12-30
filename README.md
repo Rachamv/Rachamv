@@ -4,12 +4,19 @@
 <a href="https://github.com/adeolav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rachamv">
 </a>
+
+[![GitHub license](https://img.shields.io/github/license/rachamv/rachamv.svg)](https://github.com/rachamv/rachamv/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/rachamv/rachamv.svg)](https://GitHub.com/rachamv/rachamv/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/rachamv/rachamv.svg)](https://GitHub.com/rachamv/rachamv/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/rachamv/rachamv.svg)](https://GitHub.com/rachamv/rachamv/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub watchers](https://img.shields.io/github/watchers/rachamv/rachamv.svg?style=social&label=Watch)](https://GitHub.com/rachamv/rachamv/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/rachamv/rachamv.svg?style=social&label=Fork)](https://GitHub.com/rachamv/rachamv/network/)
+[![GitHub stars](https://img.shields.io/github/stars/rachamv/rachamv.svg?style=social&label=Star)](https://GitHub.com/rachamv/rachamv/stargazers/)
  <br>
 ----
-
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](rkutalian@gmail.com)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@rachamvictor)
-
 ----
 <!--- Computer jokes --->
 ### wanna hear a joke?😅
@@ -18,6 +25,7 @@
 ----
 
 <!--**:** <br />
+[![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.gg/zxKYvhSnVp?WT.mc_id=academic-000002-leestott)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17370499/adewunmi-oladele)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rachamv)
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrB129CR33COpYrlswDSs_A)
@@ -75,6 +83,8 @@
 ## To-learn list
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br />
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198)
 
  
 
