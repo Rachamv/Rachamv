@@ -1,6 +1,26 @@
 
+## ❤ Views 
+
+<a href="https://github.com/adeolav/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rachamv">
+</a>
+ <br>
+----
+
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](rkutalian@gmail.com)
+[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@rachamvictor)
+
+----
+<!--- Computer jokes --->
+### wanna hear a joke?😅
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+----
 
 <!--**:** <br />
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17370499/adewunmi-oladele)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rachamv)
+[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrB129CR33COpYrlswDSs_A)
 :globe_with_meridians: <br />
 :globe_with_meridians: <br />
 :globe_with_meridians: <br />-->
