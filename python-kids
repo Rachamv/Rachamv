@@ -1,0 +1,143 @@
+# Python Programming Curriculum for Kids
+
+## Objective
+Teach kids Python programming through interactive lessons, projects, and exercises based on the books:
+- *Python for Kids: A Playful Introduction to Programming* by Jason R. Briggs
+- *Automate the Boring Stuff with Python* by Al Sweigart
+- *Coding for Kids: Python* by Adrienne B. Tacke
+- *Mission Python: Code a Space Adventure Game!* by Sean McManus
+
+## Schedule
+- 4 days per week
+- 52 weeks total
+
+---
+
+## Week 1–3: Introduction to Python
+**Week 1:**
+- **Day 1:** What is Python? Setting up the environment (installing Python and using an IDE like Thonny or Replit).
+- **Day 2:** Basic syntax: `print()`, comments, and running Python scripts.
+- **Day 3:** Variables and data types (strings, integers, floats).
+- **Day 4:** Practice: Simple input/output with a "Hello, User!" program.
+
+**Week 2:**
+- **Day 1:** Arithmetic operations.
+- **Day 2:** Strings: concatenation, slicing, and basic methods (e.g., `.upper()`, `.lower()`).
+- **Day 3:** Practice: Create a "Name Formatter" program.
+- **Day 4:** Practice: Build a "Math Quiz" program.
+
+**Week 3:**
+- **Day 1:** Introduction to error handling (basic try-except blocks).
+- **Day 2:** Combining strings and numbers.
+- **Day 3:** Practice: Create a "Simple Calculator" program.
+- **Day 4:** Review and consolidate concepts.
+
+---
+
+## Week 4–6: Decision-Making and Loops
+**Week 4:**
+- **Day 1:** Introduction to conditional statements (`if`, `elif`, `else`).
+- **Day 2:** Practice: Build a "Guess the Number" game.
+- **Day 3:** Loops: `for` and `while` basics.
+- **Day 4:** Practice: Create a "Number Counter" program.
+
+**Week 5:**
+- **Day 1:** Nested loops and combining loops with conditions.
+- **Day 2:** Practice: Create multiplication tables.
+- **Day 3:** Introduction to the **Turtle** library for simple graphics.
+- **Day 4:** Practice: Draw basic shapes (squares, triangles).
+
+**Week 6:**
+- **Day 1:** Loop patterns and drawing advanced shapes with **Turtle**.
+- **Day 2:** Practice: Build a "Password Validator."
+- **Day 3:** Combining loops and conditional logic.
+- **Day 4:** Review and consolidate concepts.
+
+---
+
+## Week 7–9: Functions and Modular Programming
+**Week 7:**
+- **Day 1:** Understanding functions: definition, parameters, and return values.
+- **Day 2:** Practice: Build a "Temperature Converter."
+- **Day 3:** Using built-in functions.
+- **Day 4:** Practice: Enhance the "Simple Calculator" with functions.
+
+**Week 8:**
+- **Day 1:** Importing libraries and using the **Random** library.
+- **Day 2:** Practice: Create a dice-rolling simulator.
+- **Day 3:** Scope and global/local variables.
+- **Day 4:** Practice: Add features to the dice-rolling simulator.
+
+**Week 9:**
+- **Day 1:** Modular programming and organizing code with modules.
+- **Day 2:** Practice: Break down a program into multiple files.
+- **Day 3:** Review functions and modularity.
+- **Day 4:** Project: Build a "Guess the Word" game.
+
+---
+
+## Week 10–12: Data Structures Basics
+**Week 10:**
+- **Day 1:** Lists: creating, indexing, and slicing.
+- **Day 2:** Practice: Manage a "To-Do List."
+- **Day 3:** Dictionaries: keys, values, and iteration.
+- **Day 4:** Practice: Build a "Contact Book."
+
+**Week 11:**
+- **Day 1:** Tuples and their immutability.
+- **Day 2:** Sets and their uniqueness property.
+- **Day 3:** Combining data structures.
+- **Day 4:** Practice: Create a program to calculate student grades.
+
+**Week 12:**
+- **Day 1:** Review and consolidate data structures.
+- **Day 2:** Practice: Build a program to sort a list of names alphabetically.
+- **Day 3:** Practice: Enhance the "Contact Book" with search functionality.
+- **Day 4:** Mini-project: Create a "Shopping Cart" system.
+
+---
+
+## Weeks 13–52: Slower-paced Advanced Topics, Projects, and Applications
+
+### **Weeks 13–18: Graphics and Games**
+- Explore **Turtle** graphics further for advanced shapes and animations.
+- Learn **Pygame** basics, starting with simple event handling.
+- Projects: Build a "Pong" game and enhance it over multiple weeks.
+
+### **Weeks 19–25: Real-World Applications**
+- File handling basics: reading and writing files.
+- Practice: Create a "File Organizer."
+- Explore automation with simple scripts (e.g., renaming files).
+- Data visualization basics with **Matplotlib**.
+- Project: Create graphs to visualize class scores.
+
+### **Weeks 26–32: Object-Oriented Programming (OOP)**
+- Classes, objects, and methods.
+- Inheritance and polymorphism.
+- Project: Build a text-based RPG game.
+
+### **Weeks 33–42: Capstone Preparation**
+- Work on medium-sized projects like a "Budget Tracker" or "Weather App."
+- Combine concepts (data structures, loops, OOP, file handling).
+
+### **Weeks 43–50: Capstone Projects**
+- Students choose a major project (e.g., a game, automation tool, or website).
+- Weekly check-ins and guided progress.
+
+### **Weeks 51–52: Debugging, Optimization, and Showcase**
+- Debugging strategies and code refactoring.
+- Final presentations and reviews of projects.
+
+---
+
+## Teaching Tips
+- Focus on foundational topics before moving to advanced ones.
+- Use hands-on activities to reinforce learning.
+- Allow plenty of time for practice and review.
+
+## Outcome
+By the end of the curriculum, the kid should be able to:
+1. Write Python programs confidently.
+2. Build games and real-world projects.
+3. Approach problem-solving with code effectively.
+
